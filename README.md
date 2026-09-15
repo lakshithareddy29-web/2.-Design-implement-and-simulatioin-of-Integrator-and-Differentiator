@@ -73,6 +73,7 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
   **TABULATION:**
  
+<img width="1280" height="574" alt="image" src="https://github.com/user-attachments/assets/de1dd4d8-8c49-442f-bf36-1944ed7830c5" />
 
 
 **MODEL CALCULATION:**
@@ -89,7 +90,10 @@ We get, CF = (1.59*103*10-7) / 15.9*103
   **TABULATION:**
 
 
- 
+ <img width="1280" height="574" alt="image" src="https://github.com/user-attachments/assets/49428efd-95a3-4d45-a833-763bc6026536" />
+<img width="574" height="1280" alt="image" src="https://github.com/user-attachments/assets/3e4d3453-4be6-40ee-a94e-4456d46d5a73" />
+<img width="574" height="1280" alt="image" src="https://github.com/user-attachments/assets/4419461f-e610-4f7c-bd19-e66dc27cbff7" />
+
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -104,6 +108,7 @@ We get, CF = (1.59*103*10-7) / 15.9*103
   **CIRCUIT and Waveform**
   
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/14107bc7-2b40-4628-87e9-0f70b96bf14d" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/46a31438-a7ac-43c3-8e70-7ad3fde7b873" />
 
 
 **RESULT:**
